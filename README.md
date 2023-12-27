@@ -1,5 +1,6 @@
 # Data Analyst
 
+
 ## Introduction
 - Energetic self-starter and IT Business Manager with a focus on Business Management.
 - Exceptional service provider skilled in handling challenging customers.
