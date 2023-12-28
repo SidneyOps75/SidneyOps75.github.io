@@ -52,9 +52,9 @@
 - Nationality: Kenyan.
 
 ## Links
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Technical Writing Examples](#)
+- [GitHub](https://github.com/SidneyOps75)
+- [LinkedIn](https://www.linkedin.com/in/john-opiyo-b20056141/)
+- [Technical Writing Examples]()
 
 ## Technical Skills
 - Web Development: Front End (HTML, CSS, CSS Frameworks).
