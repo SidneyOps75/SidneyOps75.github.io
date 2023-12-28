@@ -15,7 +15,7 @@
 
 ### Virtual Assistant at (Upwork) - Remote, Nairobi (September 2022 — Present)
 - Executed praised transcriptions, travel itinerary preparation, and article writing.
-- [Upwork Profile](upwork)
+- [Upwork Profile](https://www.upwork.com/freelancers/~01b80d5d27c0a15ba9)
 - Managed emails, prepared schedules, and conducted front-end web management.
 
 ### ICT Intern at National Registration Bureau, Nairobi (January 2020 — April 2020)
@@ -36,9 +36,6 @@
 - Customer Care Intern at EIDU Education Limited, Nairobi (January 2016 — August 2017).
 - Achieved 100% customer satisfaction.
 
-## Extra-curricular Activities
-- [Include relevant activities here.]
-
 ## References
 - Dr. Litunya Rose, Jomo Kenyatta University of Agriculture and Technology- Karen Campus, Email: Rosevike@yahoo.com, Phone: +254 20 892223.
 - Rose Cheche, Head of Customer Service at EIDU Education Limited, Email: itherero@yahoo.com, Phone: +254732550559.
@@ -54,7 +51,7 @@
 ## Links
 - [GitHub](https://github.com/SidneyOps75)
 - [LinkedIn](https://www.linkedin.com/in/john-opiyo-b20056141/)
-- [Technical Writing Examples]()
+- [Technical Writing](https://johnopiyo.hashnode.dev/)
 
 ## Technical Skills
 - Web Development: Front End (HTML, CSS, CSS Frameworks).
