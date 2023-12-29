@@ -32,7 +32,7 @@
 Interacted with systems such as [Excel](https://github.com/SidneyOps75/Data_analysis_projects.git) and [googleCollabs](https://drive.google.com/drive/folders/10oKEew4IAexYROFVh2MXhMLLx59RjzKi?usp=drive_link) to perform data cleaning and wrangling exercises.
 
 ## Data Science
-Created a machine learning model for predicting customer churn at Sprint involving a structured process. You can view the project [here]()
+Created a machine learning model for predicting customer churn at Sprint involving a structured process. You can view the project [here](https://github.com/SidneyOps75/Data_Science_Trial1.git)
 
 
 ## C programming 
