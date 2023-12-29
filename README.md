@@ -29,9 +29,10 @@
   
 ## Projects
 ## Data analysis
-Interacted with systems such as [Excel]() and [googleCollabs]() to perform data cleaning and wrangling exercises.
+Interacted with systems such as [Excel](https://github.com/SidneyOps75/Data_analysis_projects.git) and [googleCollabs](https://drive.google.com/drive/folders/10oKEew4IAexYROFVh2MXhMLLx59RjzKi?usp=drive_link) to perform data cleaning and wrangling exercises.
 
 ## Data Science
+
 
 
 ## C programming 
