@@ -26,6 +26,17 @@
 ### Transcriber at QA World - Remotely working, Nairobi (January 2020 — January 2021)
 - Delivered 20+ transcription assignments with good ratings.
 - Showcased verbal and written communication skills.
+  
+## Projects
+## Data analysis
+Interacted with systems such as [Excel]() and [googleCollabs]() to perform data cleaning and wrangling exercises.
+
+## Data Science
+
+
+## C programming 
+Worked on a number of projects in the ALX SWE program to excecute programs in the low level programming language.
+You can view my work [here]().
 
 ## Education
 - Bachelor in Business and Information Technology, Jomo Kenyatta University (January 2018 — June 2022).
