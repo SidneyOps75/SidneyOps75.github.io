@@ -57,7 +57,6 @@ You can view my work [here]().
 - P. O. Box 28658-00100, Nairobi, Kenya, 00100, Kenya.
 - Phone: +254718857515.
 - Email: jsidney38@gmail.com.
-- Date/Place of Birth: 20 January 1997, Kisumu, Kenya.
 - Nationality: Kenyan.
 
 ## Links
