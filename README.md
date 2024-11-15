@@ -8,6 +8,11 @@
 
 ## Employment History
 
+### Apprentice Software Developer at Zone01 Kisumu(April 2024 - Present)
+- Backend Development using Golang.
+- Frontend Responsive web application using javascript.
+
+
 ### Finance Manager at The Farm Cafe, Nairobi (May 2021 — Present)
 - Collaborated on profit generation with peers.
 - Skillfully managed Stocks and Sales, impacting performance indexes.
